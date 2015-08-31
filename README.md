@@ -1,2 +1,2 @@
 # StudyGuide-Ionic
-Roteiro de como um programador iniciante pode virar um programador foda.
+O Roteiro oficial ciraod pela comunidade se encontra [nesse repositório https://github.com/IonicBrazil/guia-do-desenvolvedor](https://github.com/IonicBrazil/guia-do-desenvolvedor)
